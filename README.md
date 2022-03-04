@@ -11,12 +11,12 @@
 	<a href="https://matrix.to/#/#ytfzf-chat:matrix.org"><img src="https://img.shields.io/static/v1?color=%230eb687&message=chat&logo=matrix&label=matrix&style=flat-square" alt="Discord"></a>
     <br />
     <br />
-    <i>A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl</i>
+    <i>Aaa POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl</i>
 	<hr>
 </p>
 
 <h1 align="center">
-	This is a little showcase
+	This is a little showcase..
 </h1>
 <p align="center">
 <img src=.assets/ytfzf.gif width="100%">
